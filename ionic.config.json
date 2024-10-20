@@ -1,0 +1,8 @@
+{
+  "name": "Encuentrame",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "464b5b77"
+}
